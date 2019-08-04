@@ -10,7 +10,7 @@ var app = {
         app.receivedEvent('deviceready');
 
         // Here, we redirect to the web site.
-        var targetUrl = "http://cloud4press.com:8080/bbs/";
+        var targetUrl = "http://cloud4press.com:8080/avalon/";
         var bkpLink = document.getElementById("bkpLink");
         bkpLink.setAttribute("href", targetUrl);
         bkpLink.text = targetUrl;

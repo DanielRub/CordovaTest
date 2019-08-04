@@ -16,7 +16,7 @@
     <allow-intent href="sms:*" />
     <allow-intent href="mailto:*" />
     <allow-intent href="geo:*" />
-	<allow-navigation href="http://cloud4press.com:8080/bbs/" />
+	<allow-navigation href="http://cloud4press.com:8080/avalon" />
     <platform name="android">
         <allow-intent href="market:*" />
     </platform>
